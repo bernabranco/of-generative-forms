@@ -18,7 +18,7 @@ Functionalities:
 
 Results:
 
-![Screenshot](https://user-images.githubusercontent.com/62609851/122201541-09cf6300-ce94-11eb-9232-1f47de2deadf.png)
+![Screenshot](https://user-images.githubusercontent.com/62609851/122203089-97f81900-ce95-11eb-847e-dbf139b9ce4d.png)
 
 ![Screenshot](https://user-images.githubusercontent.com/62609851/122201541-09cf6300-ce94-11eb-9232-1f47de2deadf.png)
 

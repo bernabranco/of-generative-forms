@@ -1,8 +1,6 @@
 # of_generative_art
 A openframeworks app to explore generative art in 3D space. 
-
 This is a never ending work which may always be further explored.
-
 Would love to see what kind of interesting results you can achieve.
 
 Usage:

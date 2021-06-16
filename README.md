@@ -15,6 +15,7 @@ Add-Ons Required:
 Functionalities:
 - Use keys "1-2-3-4-5-6-7-8-9-0" to change base visual
 - use key "z" to hide/show GUI
+- use GUI to change visual behaviour
 
 Results:
 

@@ -18,12 +18,9 @@ Functionalities:
 - use GUI to change visual behaviour
 
 Results:
-
-![Screenshot](https://user-images.githubusercontent.com/62609851/122203089-97f81900-ce95-11eb-847e-dbf139b9ce4d.png)
-
 ![Screenshot](https://user-images.githubusercontent.com/62609851/122201541-09cf6300-ce94-11eb-9232-1f47de2deadf.png)
-
 ![Screenshot](https://user-images.githubusercontent.com/62609851/122201431-ee645800-ce93-11eb-8570-8405188c557c.png)
+![Screenshot](https://user-images.githubusercontent.com/62609851/122203089-97f81900-ce95-11eb-847e-dbf139b9ce4d.png)
 
 
 

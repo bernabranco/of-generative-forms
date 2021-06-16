@@ -9,15 +9,20 @@ Usage:
 - Press "Update" button
 - Run
 
-Results:
+Add-Ons Required:
+- ofxGui
 
-<img width="1680" alt="gf-i9" src="https://user-images.githubusercontent.com/62609851/122201898-6af73680-ce94-11eb-8a47-ef85535bb6c0.png">
+Functionalities:
+- Use keys "1-2-3-4-5-6-7-8-9-0" to change base visual
+- use key "z" to hide/show GUI
+
+Results:
 
 ![Screenshot](https://user-images.githubusercontent.com/62609851/122201541-09cf6300-ce94-11eb-9232-1f47de2deadf.png)
 
-<img width="1680" alt="gf-i10" src="https://user-images.githubusercontent.com/62609851/122201541-09cf6300-ce94-11eb-9232-1f47de2deadf.png)">
+![Screenshot](https://user-images.githubusercontent.com/62609851/122201541-09cf6300-ce94-11eb-9232-1f47de2deadf.png)
 
-<img width="1680" alt="gf-i11" src="https://user-images.githubusercontent.com/62609851/122201431-ee645800-ce93-11eb-8570-8405188c557c.png)">
+![Screenshot](https://user-images.githubusercontent.com/62609851/122201431-ee645800-ce93-11eb-8570-8405188c557c.png)
 
 
 

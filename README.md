@@ -4,6 +4,7 @@ This is a never ending work which may always be further explored.
 Would love to see what kind of interesting results you can achieve.
 
 Usage:
+- git clone https://github.com/bernabranco/of-generative-forms.git
 - Place "generative_forms_1" in Openframeworks "Apps" folder;
 - click the "Import" button in the ProjectGenerator and type ""generative_forms_1";
 - Press "Update" button

@@ -13,7 +13,7 @@ git clone https://github.com/bernabranco/of-generative-forms.git
 
 Place "generative_forms_1" in Openframeworks "Apps" folder;
 
-Click the "Import" button in the ProjectGenerator and type ""generative_forms_1";
+Click the "Import" button in the ProjectGenerator and type "generative_forms_1";
 
 Press "Update" button
 

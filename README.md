@@ -7,9 +7,9 @@ Would love to see what kind crazy math ##results you can achieve.
 
 Clone Repo.
 
-´´´bash
+```bash
 git clone https://github.com/bernabranco/of-generative-forms.git
-´´´
+```
 
 Place "generative_forms_1" in Openframeworks "Apps" folder;
 

@@ -26,7 +26,7 @@ Press "Update" button
 - use mouseDrag and Zoom to change camera 3D perspective
 - use GUI to change particle behaviour
 
-Results:
+## Images / Results
 ![Screenshot](https://user-images.githubusercontent.com/62609851/122201541-09cf6300-ce94-11eb-9232-1f47de2deadf.png)
 
 ![Screenshot](https://user-images.githubusercontent.com/62609851/122201431-ee645800-ce93-11eb-8570-8405188c557c.png)

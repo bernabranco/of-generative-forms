@@ -1,7 +1,7 @@
 # Generative Forms
 A openframeworks app to explore generative art in 3D space. 
 This is a never ending work which may always be further explored.
-Would love to see what kind crazy math ##results you can achieve.
+Would love to see what kind crazy math results you can achieve.
 
 ## Usage:
 

@@ -37,9 +37,5 @@ Press "Update" button
 
 ## Demo
 
-<video width="100%" height="auto" controls>
-  <source src="demo/demo.mp4" type="video/mp4">
-</video>
-
-
+https://user-images.githubusercontent.com/62609851/147410583-4f273511-ef41-4b9b-a0c7-5896f5da65fe.mp4
 

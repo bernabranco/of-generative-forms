@@ -37,7 +37,7 @@ Press "Update" button
 
 ## Demo
 
-<video width="100%" height="auto" autoplay>
+<video width="100%" height="auto" controls>
   <source src="demo/demo.mp4" type="video/mp4">
 </video>
 

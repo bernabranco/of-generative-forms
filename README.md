@@ -18,20 +18,28 @@ Click the "Import" button in the ProjectGenerator and type "generative_forms_1";
 Press "Update" button
 
 ## Add-Ons Required
+
 - ofxGui
 
 ## Functionalities:
+
 - Use keys "1-2-3-4-5-6-7-8-9-0" to change base visual
 - use key "z" to hide/show GUI
 - use mouseDrag and Zoom to change camera 3D perspective
 - use GUI to change particle behaviour
 
 ## Images / Results
-![Screenshot](https://user-images.githubusercontent.com/62609851/122201541-09cf6300-ce94-11eb-9232-1f47de2deadf.png)
 
-![Screenshot](https://user-images.githubusercontent.com/62609851/122201431-ee645800-ce93-11eb-8570-8405188c557c.png)
+<img src="prints/print1.jpg" width="100%" height="auto">
+<img src="prints/print2.jpg" width="100%" height="auto">
+<img src="prints/print3.png" width="100%" height="auto">
+<img src="prints/print4.jpg" width="100%" height="auto">
 
-![Screenshot](https://user-images.githubusercontent.com/62609851/122203089-97f81900-ce95-11eb-847e-dbf139b9ce4d.png)
+## Demo
+
+<video width="100%" height="auto" autoplay>
+  <source src="demo/demo.mp4" type="video/mp4">
+</video>
 
 
 
